@@ -1,5 +1,5 @@
 <?php
-$koneksi = new mysqli('localhost', 'root', '', 'farisbloking')
+$koneksi = new mysqli('localhost', 'root', '', 'aini')
 or die(mysqli_error($koneksi));
 
 
