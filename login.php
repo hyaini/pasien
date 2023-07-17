@@ -2,7 +2,7 @@
 session_start();
 
 // Koneksi ke database
-$koneksi = mysqli_connect("localhost", "root", "", "farisbloking");
+$koneksi = mysqli_connect("localhost", "root", "", "aini");
 
 // Fungsi untuk memeriksa status admin pengguna
 function isAdmin() {
